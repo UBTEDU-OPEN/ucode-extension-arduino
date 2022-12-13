@@ -1,0 +1,34 @@
+{
+  "serialport.uploader.UploadBeforeCheckError": {
+    "col": 40,
+    "defaultMessage": "上传检查出错",
+    "end": 321,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-arduino/src/message.ts",
+    "line": 8,
+    "start": 232
+  },
+  "serialport.uploader.compileFailed": {
+    "col": 31,
+    "defaultMessage": "烧录失败, 请检查错误日志",
+    "end": 558,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-arduino/src/message.ts",
+    "line": 16,
+    "start": 471
+  },
+  "serialport.uploader.prepareLibrary": {
+    "col": 32,
+    "defaultMessage": "正在准备库文件",
+    "end": 189,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-arduino/src/message.ts",
+    "line": 4,
+    "start": 107
+  },
+  "serialport.uploader.unconnected": {
+    "col": 29,
+    "defaultMessage": "设备已断开，请先连接设备",
+    "end": 437,
+    "file": "/Users/lh/codes/0_open-ucode/ucode-extension-arduino/src/message.ts",
+    "line": 12,
+    "start": 353
+  }
+}

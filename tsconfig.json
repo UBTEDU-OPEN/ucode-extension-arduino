@@ -1,0 +1,8 @@
+{
+  "extends": "./node_modules/@ubtech/ucode-extension-developer-kit/typescript/tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "outDir": "build",
+  },
+  "include": ["./node_modules/@ubtech/ucode-extension-developer-kit/typescript/types", "src", "types"]
+}
