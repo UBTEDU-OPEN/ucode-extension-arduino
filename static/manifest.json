@@ -1,0 +1,11 @@
+{
+  "id": "b1ef78a8-93d7-4b08-92da-b142c8cba947",
+  "version": "0.0.1",
+  "type": "hardware",
+  "supportModes": ["online","upload"],
+  "name": "arduino-test",
+  "description": "这是一个demo",
+  "author": "你的名字",
+  "icon": "logo.svg",
+  "USV": "0.6.0"
+}
