@@ -1254,15 +1254,15 @@
     "@typescript-eslint/types" "5.46.1"
     eslint-visitor-keys "^3.3.0"
 
-"@ubtech/ucode-extension-common-sdk@beta":
-  version "1.4.1-beta.0"
-  resolved "https://edu-registry.ubtrobot.com:9601/@ubtech%2fucode-extension-common-sdk/-/ucode-extension-common-sdk-1.4.1-beta.0.tgz#c0ce249b9c332752a6e72014a844967216eba6e1"
-  integrity sha512-bVVCUoIgECrfzFNb5WVIAjdMC9gLeQpaQkluFq5qw4RlRDD5Xg1Eu8JOVvhjR1dtCZ0TUcBDGx2KBDSj/6i5LQ==
+"@ubtech/ucode-extension-common-sdk@latest":
+  version "1.4.1"
+  resolved "https://edu-registry.ubtrobot.com:9601/@ubtech%2fucode-extension-common-sdk/-/ucode-extension-common-sdk-1.4.1.tgz#96e7c059e4aa88a9dc1ad56c433b61e82ae62f79"
+  integrity sha512-Rs5W/f0WcrLSukAkxSfRyeNRsXvHR0QE32h7Ck14GhWrRA4jGlBGa3V2d8o/KvxNTsjGtVE2k3h6JXmLe+C56Q==
 
-"@ubtech/ucode-extension-developer-kit@beta":
-  version "1.2.0-beta.2"
-  resolved "https://edu-registry.ubtrobot.com:9601/@ubtech%2fucode-extension-developer-kit/-/ucode-extension-developer-kit-1.2.0-beta.2.tgz#b7b0b9d79da71dbe428662045c7d858b54e687b9"
-  integrity sha512-BgFI3mSLOlVH72Ck5CFEj+/9TpoJR9IggL1efwUZMYGxZZor+C6Uhf1Hk8Zukb2sCnIXdwjFYcCAJvxrevMuqA==
+"@ubtech/ucode-extension-developer-kit@latest":
+  version "1.2.1"
+  resolved "https://edu-registry.ubtrobot.com:9601/@ubtech%2fucode-extension-developer-kit/-/ucode-extension-developer-kit-1.2.1.tgz#661387439880de96519d458b9fb7c92563e7fbb7"
+  integrity sha512-ndgax/ZxiYLz6FRxdQ4MA3YB4VPOv29j4vssfTDTnt1r9crEsAgaWjPj3+EVLjXZ0HsIJZ83eOmTc1AfYc9DQw==
   dependencies:
     "@babel/core" "^7.16.12"
     "@babel/preset-env" "^7.16.11"

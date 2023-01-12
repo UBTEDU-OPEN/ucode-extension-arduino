@@ -16,9 +16,9 @@
     "i18n": "cua-i18n-extract"
   },
   "dependencies": {
-    "@ubtech/ucode-extension-common-sdk": "beta"
+    "@ubtech/ucode-extension-common-sdk": "latest"
   },
   "devDependencies": {
-    "@ubtech/ucode-extension-developer-kit": "beta"
+    "@ubtech/ucode-extension-developer-kit": "latest"
   }
 }
